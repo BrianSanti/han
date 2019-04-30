@@ -47,7 +47,6 @@ return Cabeza.getDato();
 
 
 
-//7:17 segundo video
 
     
 }
