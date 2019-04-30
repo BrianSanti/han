@@ -96,7 +96,7 @@ public class Hanoi extends javax.swing.JFrame {
         
         for( int y = x; y>0; y--){
             
-            Disco+= "(0)";
+            Disco+= "((0))";
 
         }
         Plataforma.setDato(Disco);
@@ -360,7 +360,7 @@ public class Hanoi extends javax.swing.JFrame {
         });
         getContentPane().add(jButton7, new org.netbeans.lib.awtextra.AbsoluteConstraints(520, 250, 50, 40));
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel1.setBackground(new java.awt.Color(102, 255, 204));
 
         jButton9.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jButton9.setText("Reiniciar");
