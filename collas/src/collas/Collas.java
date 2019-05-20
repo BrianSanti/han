@@ -1,4 +1,3 @@
-
 package collas;
 
 import java.util.Scanner;

@@ -1,4 +1,3 @@
-
 package collas;
 
 public class Nodo {
